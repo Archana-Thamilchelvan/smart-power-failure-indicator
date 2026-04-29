@@ -23,6 +23,9 @@ To identify which power line has failed and provide a simple visual indication u
   - The corresponding LED turns ON to indicate the fault.
 - Switches are used to simulate faults in different lines.
 
+## Demo Video
+https://your-link-here
+
 ## How to Use
 1. Power the ESP32.
 2. Ensure all lines are connected properly.
